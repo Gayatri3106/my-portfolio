@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio | Neti Sai Gayatri
 
-## Getting Started
+Welcome to my portfolio repository! This project showcases my personal journey, academic achievements, technical skills, and software engineering projects. It serves as a central hub to demonstrate my proficiency in Java, Data Structures & Algorithms, and modern application development.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👩‍💻 About Me
+I am a Computer Science & Engineering (Data Science) student (2027 passout) with a strong foundation in Java, DSA, and Object-Oriented Programming. I am passionate about building efficient backend services, exploring scalable architectures, and developing tools that optimize developer workflows.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technical Skills
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Languages:** Java (Core, OOP, DSA), Python, C, SQL, JavaScript, HTML, CSS
+- **CS Fundamentals:** Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems
+- **Frameworks & Tools:** Spring Framework (Learning Spring Boot), Pandas, NumPy, Power BI
+- **Version Control & Dev Environment:** Git, GitHub, VS Code
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Highlighted Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. CODESENCE – AI-Powered Code Analysis Platform
+A web platform enabling students to submit code and receive AI-driven logic explanations, time/space complexity analysis, and optimization suggestions.
+- **Tech Stack:** Java, REST APIs, Web Technologies
+- **Key Features:** Integrated an in-browser Java compilation engine for real-time execution; designed and consumed REST APIs to handle seamless code submissions and processing.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. AVL Tree Visualizer
+A fully functional self-balancing AVL Tree application implemented to reinforce core DSA and OOP principles.
+- **Tech Stack:** Java, Data Structures
+- **Key Features:** Handles insertion, deletion, and rotation operations while strictly maintaining $O(\log n)$ time complexity alongside an interactive structural visualizer.
 
-## Deploy on Vercel
+### 3. USB Rogue User Detector
+A system security application engineered to monitor, detect, and flag unauthorized USB device connections.
+- **Tech Stack:** Python, System Security
+- **Key Features:** Applied event-driven programming and system-level monitoring techniques to improve environment security.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
+
+## 📈 Education & Key Achievements
+
+- **B.Tech in CSE (Data Science)** | ACE Engineering College, Hyderabad — **CGPA: 8.85 / 10.0**
+- **Certifications:** Java Programming (Govt. of Telangana), Cisco CCNA (Networks, Routing, & Security), Python Data Libraries (Kaggle)
+- **Strengths:** Strong problem-solving capabilities, code optimization, version control, and team collaboration.
+
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
